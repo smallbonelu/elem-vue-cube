@@ -14,7 +14,7 @@
     "cube-ui": "~1.12.15",
     "vue": "^2.6.10",
     "vue-router": "^3.0.7",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "query-string": "^6.2.0",
     "good-storage": "^1.1.0"
   },
